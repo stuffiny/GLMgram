@@ -4,7 +4,7 @@
 <dict>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>$(PRODUCT_BUNDLE_IDENTIFIER).refresh</string>
+		<string>$(my.ceopoco.opusgram).refresh</string>
 	</array>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
@@ -185,7 +185,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>$(PRODUCT_NAME)</string>
+	<string>$(OpusGram)</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
