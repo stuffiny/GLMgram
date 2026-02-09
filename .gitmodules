@@ -53,3 +53,5 @@
 [submodule "submodules/opus"]
  path = submodules/opus
  url = https://github.com/TelegramMessenger/opus.git
+ path = submodules/opus
+ url = https://github.com/TelegramMessenger/opus.git
