@@ -42,6 +42,10 @@
  path = build-system/bazel-rules/sourcekit-bazel-bsp
  url = https://github.com/SwiftWasm/sourcekit-bazel-bsp.git
 
+[submodule "third-party/XcodeGen"]
+ path = third-party/XcodeGen
+ url = https://github.com/yonaskolb/XcodeGen.git
+
 [submodule "submodules/ffmpeg"]
  path = submodules/ffmpeg
  url = https://github.com/TelegramMessenger/ffmpeg.git
