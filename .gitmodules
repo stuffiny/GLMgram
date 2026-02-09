@@ -18,6 +18,18 @@
  path = submodules/Chart/PGCharts
  url = https://github.com/all-comm-stf/PGCharts.git
 
+[submodule "build-system/bazel-rules/apple_support"]
+ path = build-system/bazel-rules/apple_support
+ url = https://github.com/bazelbuild/apple_support.git
+
+[submodule "build-system/bazel-rules/rules_apple"]
+ path = build-system/bazel-rules/rules_apple
+ url = https://github.com/bazelbuild/rules_apple.git
+
+[submodule "build-system/bazel-rules/rules_swift"]
+ path = build-system/bazel-rules/rules_swift
+ url = https://github.com/bazelbuild/rules_swift.git
+
 [submodule "submodules/ffmpeg"]
  path = submodules/ffmpeg
  url = https://github.com/TelegramMessenger/ffmpeg.git
@@ -25,11 +37,3 @@
 [submodule "submodules/opus"]
  path = submodules/opus
  url = https://github.com/TelegramMessenger/opus.git
-
-[submodule "submodules/openal-soft"]
- path = submodules/openal-soft
- url = https://github.com/TelegramMessenger/openal-soft.git
-
-[submodule "submodules/libvpx"]
- path = submodules/libvpx
- url = https://github.com/TelegramMessenger/libvpx.git
