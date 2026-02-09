@@ -10,6 +10,10 @@
  path = submodules/rlottie/rlottie
  url = https://github.com/Samsung/rlottie.git
 
+[submodule "submodules/LottieCpp/lottiecpp"]
+ path = submodules/LottieCpp/lottiecpp
+ url = https://github.com/stuffiny/lottiecpp.git
+
 [submodule "submodules/AppCenter-SDK-Apple"]
  path = submodules/AppCenter-SDK-Apple
  url = https://github.com/microsoft/appcenter-sdk-apple.git
